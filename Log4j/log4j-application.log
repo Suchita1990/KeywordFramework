@@ -1,0 +1,10 @@
+2020-04-23 11:58:51 INFO  Log:12 - Test is Starting...
+2020-04-23 11:59:08 INFO  Log:22 - Browser Open
+2020-04-23 13:00:24 INFO  Log:12 - Test is Starting...
+2020-04-23 13:00:33 INFO  Log:22 - Browser Open
+2020-04-23 13:01:50 INFO  Log:22 - Opening required url
+2020-04-23 13:01:51 INFO  Log:22 - Maiximize Window
+2020-04-23 13:01:51 INFO  Log:12 - Test is Starting...
+2020-04-24 16:20:41 INFO  Log:22 - *******Test Start************
+2020-04-24 16:21:06 INFO  Log:22 - **********Chrome Browser Open Wth Specified Url**************
+2020-04-24 17:16:01 INFO  Log:22 - **************** VerifyTextBoxLabel : for src textbox ***************
